@@ -58,6 +58,11 @@
       "pricePrecision": 8
     },
     {
+      "tokenx": "NEURAL",
+      "tokeny": "WETH",
+      "pricePrecision": 8
+    },
+    {
       "tokenx": "DAI",
       "tokeny": "WETH",
       "pricePrecision": 8
