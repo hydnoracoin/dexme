@@ -334,12 +334,12 @@
       "minTradeValue": 0.001
     },
     {
-      "symbol": "WETH_OLD",
-      "name": "Wrapped Ether",
+      "symbol": "NEURAL",
+      "name": "NEURAL",
       "digits": 18,
-      "address": "0x2956356cD2a2bf3202F771F50D3D14A367b48070",
-      "unit": "WETH",
-      "website": "https://weth.io",
+      "address": "0xe2b8c03158d6b8fe62e2387143fc6d5bd92d76c8",
+      "unit": "NEURAL",
+      "website": "https://neural.club",
       "allowance": "1000000000000000000000",
       "allowanceWarn": "100000000000000000000",
       "precision": 6,
@@ -1307,6 +1307,7 @@
     }
   ],
   "whiteList": [
+    "0xe2b8c03158d6b8fe62e2387143fc6d5bd92d76c8",
     "0x80679a2c82ab82f1e73e14c4bec4ba1992f9f25a",
     "0x8311804426a24495bd4306daf5f595a443a52e32",
     "0xeba7136a36da0f5e16c6bdbc739c716bb5b65a00",
