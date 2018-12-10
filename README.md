@@ -1,13 +1,11 @@
-# Loopr - ERC20 Wallet and Loopring DEX
+# hydr - ERC20 Wallet and hydnora DEX
 
 ## Introduction
 
-Loopr is a non-custodial Ethereum wallet and Loopring DEX，which is in Beta phase of V3. 
-
-Start your first decentralized trade at [loopring.io](https://loopring.io) or [https://loopr.io](https://loopr.io)
+hydron is a non-custodial Ethereum wallet and Loopring DEX，which is in Beta phase of V3. 
 
 ## Documentations
-For more information regarding this project, please checkout its [github pages](https://loopring.github.io/loopr).
+For more information regarding this project, please checkout man
 
 
 
